@@ -20,7 +20,7 @@ namespace CurrencyConverter
                     Console.WriteLine("Вы попали в кейс 2");
                     break;
                 default:
-                    Console.WriteLine("Вы попали в кейс 3");
+                    Console.WriteLine("Вы попали последний кейс");
                     break;
             }
             
